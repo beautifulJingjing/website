@@ -10,7 +10,7 @@
 <script>
     import './css/iconfont.css'
     import './css/reset.css'
-    import './lib/weui/dist/style/weui.min.css'
+
     export default{
         data(){
             return{
