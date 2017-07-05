@@ -13,7 +13,7 @@ import Start from '../pages/start.vue'
 import Detail from '../pages/detail.vue'
 
 const router=new VueRouter({
-  mode: 'hash',
+  mode: 'history',
   base: __dirname,
   routes: [
     {
